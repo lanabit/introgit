@@ -1,2 +1,3 @@
 console.log('new');
-console.log('waw');
+let bebas = 'bebas';
+console.log(bebas);
